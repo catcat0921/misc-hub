@@ -73,3 +73,9 @@ CSS路径：d:\jboss\jboss-as\server\oa\deploy\defaultroot.war\scripts\desktop\p
 JS路径：d:\jboss\jboss-as\server\oa\deploy\defaultroot.war\desktop.jsp
 上面的JS是在JSP页面中插入<script>代码块，所以需要在</body>标签前面插入
 ```
+
+# 0x04 LNK钓鱼马免杀
+```
+https://www.cybereason.com/blog/threat-analysis-taking-shortcuts-using-lnk-files-for-initial-infection-and-persistence
+【LNK文件深度解析-钓鱼攻击利用姿势】https://mp.weixin.qq.com/s/-sGRCSoOxP2a9aR0vNoZVw
+```
